@@ -1,4 +1,4 @@
-![Screenshot 2024-04-16 142311](https://github.com/thunderantony/Square-root-of-a-number/assets/149364638/dacd2237-1eb2-4980-92bb-71f5ee213312)# Find the square root of a number
+# Find the square root of a number
 
 ## AIM:
 
